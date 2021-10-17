@@ -13,7 +13,7 @@ Here our objective is to calculate our benifit on given ads price
 7. Predicting the Model
 
 ### Input Image                                                                       
-![Screenshot](Input.jpeg) 
+![Screenshot](Input.png) 
 
 ### Output Image
 ![Screenshot](Output.png) 
@@ -22,7 +22,7 @@ Here our objective is to calculate our benifit on given ads price
 http://navisingh.pythonanywhere.com/
 
 ### Flowchart
-![Screenshot](Flowchart.jpeg) 
+![Screenshot](Flowchart.png) 
 
 ## Submitted by :- 
 ### Navpreet Singh Kapoor
