@@ -1,6 +1,6 @@
 ## UCS757 Building Innovative Systems
 ## Project 2
-# Advertise Benefit Counter
+# Ad Benefit Counter
 Here our objective is to calculate our benifit on given ads price
 
 ### Following are the steps I followed 
